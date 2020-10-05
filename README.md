@@ -34,7 +34,7 @@ The Paging Library supports the following data architectures:
 -   Served only from a backend server.
 -   Stored only in an on-device database.
 -   A combination of the other sources, using the on-device database as a cache.
-![Figure 1](https://developer.android.com/topic/libraries/architecture/images/paging-library-data-flow.webp)
+![](https://developer.android.com/topic/libraries/architecture/images/paging-library-data-flow.webp)
 
 ###  Network only
 
