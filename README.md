@@ -34,7 +34,7 @@ The Paging Library supports the following data architectures:
 -   Served only from a backend server.
 -   Stored only in an on-device database.
 -   A combination of the other sources, using the on-device database as a cache.
-![](https://i.ibb.co/9w5Jtk0/image.png)
+![](https://i.ibb.co/YfL1LZJ/image.png)
 
 ###  Network only
 
